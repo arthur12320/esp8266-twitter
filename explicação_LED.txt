@@ -1,0 +1,9 @@
+
+
+-assim que a placa liga ela pisca o led 3 vezes.
+
+-depois disso a placa tenta conectar-se ao wifi, se ela conseguir o led fica ligado, se não fica desligado.
+
+-a placa continua com o estado de led anterior esperando o botão
+
+-quando o botão é apertado o led desliga, depois de enviado o pedido get a placa tenta se conectar ao wifi novamente e o led faz o mesmo processo.
