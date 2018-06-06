@@ -22,7 +22,7 @@ const int botao = 0;  //pino do botão utilizado
 
 int botaoestado = 0;
 String comando = "botao_pressionado";
-String key = "";
+String key = "IFTT webhooks key";
 
 ESP8266WiFiMulti wifiMulti;
 
